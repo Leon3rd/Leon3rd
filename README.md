@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello there 👋
+
+My name Leonard from Germany.
+I'm new to GitHub and just learning how everything works.
+
+[![Leon3rd's github stats](https://github-readme-stats.vercel.app/api?username=leon3rd)](https://github.com/leon3rd/github-readme-stats)
+
+
 
 <!--
 **Leon3rd/Leon3rd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
